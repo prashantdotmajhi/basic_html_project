@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+  }
+  
+  .logo{
+    display: flex;
+    justify-content: space-between;
+    width: 13%;
+  }
+  
+  .navigation ul{
+    display: flex;
+    list-style-type: none;
+  }
+  
+  .navigation ul li a{
+    text-decoration: none;
+  }
+  
+  .main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 30vh;
+  }
+  
+  .second{
+    border: 1px solid black;
+    height: 60vh;
+  }
