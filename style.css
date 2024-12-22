@@ -34,5 +34,99 @@
   
   .second{
     border: 1px solid black;
-    height: 60vh;
+    height: 46vh;
   }
+  .container2{
+    border: 1px solid black;
+    height: 10vh;
+    width: 30vh;
+  }
+
+  .container3{
+    border: 1px solid black;
+    height: 5vh;
+    width: 30vh;
+  }
+
+  
+  .container4{
+    border: 1px solid black;
+    height: 5vh;
+    width: 30vh;
+  }
+
+  .container5{
+    border: 1px solid black;
+    height: 5vh;
+    width: 30vh;
+  }
+
+  .container6{
+    border: 1px solid black;
+    height: 20vh;
+    width: 30vh;
+  }
+
+  .container10{
+    position: absolute;
+    border: 1px solid black;
+    height: 24vh;
+    width: 37vh;
+    margin-left: 210px;
+    top: 265px;
+  }
+
+  .container11{
+    position: absolute;
+    border: 1px solid black;
+    height: 22vh;
+    width: 37vh;
+    margin-left: 210px;
+    top: 430px;
+  }
+
+.container12{
+  position: absolute;
+  border: 1px solid black;
+  height: 45vh;
+  width: 40vh;
+  margin-left: 470px;
+  top: 270px;
+}
+
+.third{
+  border: 1px solid black;
+  height: 46vh;
+}
+
+
+.thirdcon1{
+  position: absolute;
+  border: 1px solid black;
+  height: 20vh;
+  width: 25vh;
+  border-radius: 20px;
+  top: 650px;
+  left: 35px;
+}
+
+.thirdcon2{
+  position: absolute;
+  border: 1px solid black;
+  height: 20vh;
+  width: 25vh;
+  border-radius: 20px;
+  top: 650px;
+  left: 300px;
+}
+
+
+.thirdcon3{
+  position: absolute;
+  border: 1px solid black;
+  height: 20vh;
+  width: 25vh;
+  border-radius: 20px;
+  top: 650px;
+  left: 550px;
+}
