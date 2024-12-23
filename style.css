@@ -12,7 +12,7 @@
   .logo{
     display: flex;
     justify-content: space-between;
-    width: 13%;
+    width: 10%;
   }
   
   .navigation ul{
@@ -39,59 +39,59 @@
   .container2{
     border: 1px solid black;
     height: 10vh;
-    width: 30vh;
+    width: 80vh;
   }
 
   .container3{
     border: 1px solid black;
     height: 5vh;
-    width: 30vh;
+    width: 80vh;
   }
 
   
   .container4{
     border: 1px solid black;
     height: 5vh;
-    width: 30vh;
+    width: 80vh;
   }
 
   .container5{
     border: 1px solid black;
     height: 5vh;
-    width: 30vh;
+    width: 80vh;
   }
 
   .container6{
     border: 1px solid black;
     height: 20vh;
-    width: 30vh;
+    width: 80vh;
   }
 
   .container10{
     position: absolute;
     border: 1px solid black;
     height: 24vh;
-    width: 37vh;
-    margin-left: 210px;
-    top: 265px;
+    width: 75vh;
+    margin-left: 557px;
+    top: 285px;
   }
 
   .container11{
     position: absolute;
     border: 1px solid black;
     height: 22vh;
-    width: 37vh;
-    margin-left: 210px;
-    top: 430px;
+    width: 75vh;
+    margin-left: 557px;
+    top: 450px;
   }
 
 .container12{
   position: absolute;
   border: 1px solid black;
   height: 45vh;
-  width: 40vh;
-  margin-left: 470px;
-  top: 270px;
+  width: 63vh;
+  margin-left: 1080px;
+  top: 285px;
 }
 
 .third{
@@ -107,7 +107,7 @@
   width: 25vh;
   border-radius: 20px;
   top: 650px;
-  left: 35px;
+  left: 250px;
 }
 
 .thirdcon2{
@@ -117,7 +117,7 @@
   width: 25vh;
   border-radius: 20px;
   top: 650px;
-  left: 300px;
+  left: 670px;
 }
 
 
@@ -128,5 +128,5 @@
   width: 25vh;
   border-radius: 20px;
   top: 650px;
-  left: 550px;
+  left: 1100px;
 }
