@@ -106,8 +106,6 @@
   height: 20vh;
   width: 25vh;
   border-radius: 20px;
-  top: 650px;
-  left: 250px;
 }
 
 .thirdcon2{
@@ -116,8 +114,6 @@
   height: 20vh;
   width: 25vh;
   border-radius: 20px;
-  top: 650px;
-  left: 670px;
 }
 
 
@@ -127,6 +123,38 @@
   height: 20vh;
   width: 25vh;
   border-radius: 20px;
-  top: 650px;
-  left: 1100px;
+}
+
+@media (max-width: 500px){
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  .second, .third{
+    height: fit-content;
+  }
+
+  .container10, .container11, .container12{
+    margin-left: 0;
+    top: 0;
+  }
+
+  .second, .container10, .container11, .container12, .container2, .container3, .container4,.container5,.container6{
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  .main, .third{
+    position: relative;
+  }
+
+  .thirdcon1, .thirdcon2, .thirdcon3{
+    margin-left: 0;
+    position: relative;
+    width: 100%;
+  }
 }
