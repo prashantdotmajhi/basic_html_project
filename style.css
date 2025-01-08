@@ -1,91 +1,92 @@
-*{
-    margin: 0;
-    padding: 0;
-  }
-  
-  nav{
-    display: flex;
-    padding: 10px;
-    justify-content: space-between;
-  }
-  
-  .logo{
-    display: flex;
-    justify-content: space-between;
-    width: 10%;
-  }
-  
-  .navigation ul{
-    display: flex;
-    list-style-type: none;
-  }
-  
-  .navigation ul li a{
-    text-decoration: none;
-  }
-  
-  .main{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    height: 30vh;
-  }
-  
-  .second{
-    border: 1px solid black;
-    height: 46vh;
-  }
-  .container2{
-    border: 1px solid black;
-    height: 10vh;
-    width: 80vh;
-  }
+* {
+  margin: 0;
+  padding: 0;
+}
 
-  .container3{
-    border: 1px solid black;
-    height: 5vh;
-    width: 80vh;
-  }
+nav {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
 
-  
-  .container4{
-    border: 1px solid black;
-    height: 5vh;
-    width: 80vh;
-  }
+.logo {
+  display: flex;
+  justify-content: space-between;
+  width: 10%;
+}
 
-  .container5{
-    border: 1px solid black;
-    height: 5vh;
-    width: 80vh;
-  }
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+}
 
-  .container6{
-    border: 1px solid black;
-    height: 20vh;
-    width: 80vh;
-  }
+.navigation ul li a {
+  text-decoration: none;
+}
 
-  .container10{
-    position: absolute;
-    border: 1px solid black;
-    height: 24vh;
-    width: 75vh;
-    margin-left: 557px;
-    top: 285px;
-  }
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  height: 30vh;
+}
 
-  .container11{
-    position: absolute;
-    border: 1px solid black;
-    height: 22vh;
-    width: 75vh;
-    margin-left: 557px;
-    top: 450px;
-  }
+.second {
+  border: 1px solid black;
+  height: 46vh;
+}
 
-.container12{
+.container2 {
+  border: 1px solid black;
+  height: 10vh;
+  width: 80vh;
+}
+
+.container3 {
+  border: 1px solid black;
+  height: 5vh;
+  width: 80vh;
+}
+
+
+.container4 {
+  border: 1px solid black;
+  height: 5vh;
+  width: 80vh;
+}
+
+.container5 {
+  border: 1px solid black;
+  height: 5vh;
+  width: 80vh;
+}
+
+.container6 {
+  border: 1px solid black;
+  height: 20vh;
+  width: 80vh;
+}
+
+.container10 {
+  position: absolute;
+  border: 1px solid black;
+  height: 24vh;
+  width: 75vh;
+  margin-left: 557px;
+  top: 285px;
+}
+
+.container11 {
+  position: absolute;
+  border: 1px solid black;
+  height: 22vh;
+  width: 75vh;
+  margin-left: 557px;
+  top: 450px;
+}
+
+.container12 {
   position: absolute;
   border: 1px solid black;
   height: 45vh;
@@ -94,13 +95,13 @@
   top: 285px;
 }
 
-.third{
+.third {
   border: 1px solid black;
   height: 46vh;
 }
 
 
-.thirdcon1{
+.thirdcon1 {
   position: absolute;
   border: 1px solid black;
   height: 20vh;
@@ -108,7 +109,7 @@
   border-radius: 20px;
 }
 
-.thirdcon2{
+.thirdcon2 {
   position: absolute;
   border: 1px solid black;
   height: 20vh;
@@ -117,7 +118,7 @@
 }
 
 
-.thirdcon3{
+.thirdcon3 {
   position: absolute;
   border: 1px solid black;
   height: 20vh;
